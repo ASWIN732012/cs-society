@@ -1,0 +1,22 @@
+
+.white{
+    background:white;
+    margin:180px;
+    padding:100px;
+    border-radius:25px;
+    background-image:url(ieee.png);
+    background-repeat: no-repeat;
+    background-position:top center;
+    background-position-x:300px;
+    background-position-y:35px;
+    background-size:150px 60px;
+    margin-left:25%;
+    bac
+    
+}
+button{
+    margin-left:30%;
+}
+a{
+    margin-left:250px;
+}
